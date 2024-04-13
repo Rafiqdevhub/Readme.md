@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a developer where working in both web development(frontend and backend) and mobile development.
+##Enthusiastic coder always exploring new technologies and best practices.
+###Skilled developer with a strong foundation in front-end and back-end development
 
 
 ## 🌐 Socials:
