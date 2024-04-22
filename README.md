@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Muhammad Rafiq:
 ## Enthusiastic coder always exploring new technologies and best practices.
 ### Skilled developer with a strong foundation in front-end and back-end development
 
