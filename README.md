@@ -1,4 +1,4 @@
-# 💫 Muhammad Rafiq:
+# Muhammad Rafiq:
 Hello! 👋 I'm Muhammad Rafiq, a passionate full-stack developer. With a strong background in both front-end and back-end technologies, I specialize in crafting robust web applications from concept to production.<br>
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via [email](mailto:rafiq85825@gmail.com) or connect with me on sockials which links are given below.
 <br>
